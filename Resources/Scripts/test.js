@@ -1,0 +1,1 @@
+'STD_OUT works'
